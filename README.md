@@ -1,5 +1,5 @@
 ## Ex-9 Interface
-### Date : 30/5/2023
+### Date : 6/6/2023
 ### Aim:
 To write a C# program using interface concept.
 
